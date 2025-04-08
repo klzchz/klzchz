@@ -29,15 +29,16 @@ I actively work on professional and private repositories, many of which are not 
 
 ## 📌 Project Highlights
 
-- 🛒 [Mini E-commerce com Express e EJS](https://github.com/klzchz/ecommerce-express-ejs)
-- 📦 [REST API com NestJS e DTOs](https://github.com/klzchz/nestjs-dto-example)
-- 🧪 [Mock de E-commerce com Jest e TS](https://github.com/klzchz/ecommerce-mock)
+- 🛍️ [Mini E-commerce com Express.js (Academind)](https://github.com/klzchz/express-js-academind)
+- 🧱 [SonFramework – My Custom PHP Framework](https://github.com/klzchz/SonFramework-)
+- 🧱 [Back-End TypeScript Boilerplate](https://github.com/klzchz/back-end-ts)
+- 📚 [30 Days of JavaScript](https://github.com/klzchz/30-Days-of-JavaScript)
 
 ---
 
 ## 🙋‍♂️ About Me
 
-I’m passionate about solving complex problems and delivering real-world solutions. With a strong foundation in full-stack development, I’ve worked with  Node.js, PHP (Laravel), Golang, React, and more. I'm always learning and up for a challenge.
+I’m passionate about solving complex problems and delivering real-world solutions. With a strong foundation in full-stack development, I’ve worked with Vue.js, Node.js, PHP (Laravel), Angular, React, and more. I'm always learning and up for a challenge.
 
 Outside coding? You might find me watching anime, geeking out over reggaeton, or trying to be productive with a Coca-Cola in hand 🥤
 
