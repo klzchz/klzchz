@@ -28,7 +28,7 @@ I actively work on professional and private repositories, many of which are not 
 ---
 
 ## 📌 Project Highlights
-
+- 🔧 [E-commerce API with NestJS](https://github.com/klzchz/hw-nest)
 - 🛍️ [Mini E-commerce com Express.js (Academind)](https://github.com/klzchz/express-js-academind)
 - 🧱 [SonFramework – My Custom PHP Framework](https://github.com/klzchz/SonFramework-)
 - 🧱 [Back-End TypeScript Boilerplate](https://github.com/klzchz/back-end-ts)
