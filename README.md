@@ -37,7 +37,7 @@ I actively work on professional and private repositories, many of which are not 
 
 ## 🙋‍♂️ About Me
 
-I’m passionate about solving complex problems and delivering real-world solutions. With a strong foundation in full-stack development, I’ve worked with Vue.js, Node.js, PHP (Laravel), Angular, React, and more. I'm always learning and up for a challenge.
+I’m passionate about solving complex problems and delivering real-world solutions. With a strong foundation in full-stack development, I’ve worked with Vue.js, Node.js, PHP (Laravel), GO(Gin), Python,  Angular, React, and more. I'm always learning and up for a challenge.
 
 Outside coding? You might find me watching anime, geeking out over reggaeton, or trying to be productive with a Coca-Cola in hand 🥤
 
