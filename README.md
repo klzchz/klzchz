@@ -43,6 +43,9 @@ I actively work on professional and private repositories, many of which are not 
 I’m passionate about solving complex problems and delivering real-world solutions. With a strong foundation in full-stack development, 
 I’ve worked with Vue.js, Node.js, PHP (Laravel), Angular, React, and more. I also enjoy coding in Go (Golang) and Python for building APIs, services, and automation scripts.
 
+In My free Time:
+Outside coding? You might find me watching anime, geeking out over reggaeton, or trying to be productive with a Coca-Cola in hand 🥤
+
 ---
 
 ## 📫 Connect with Me
