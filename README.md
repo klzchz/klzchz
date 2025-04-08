@@ -1,41 +1,57 @@
-<h2 align="left">Hi 👋! My name is Lucas Andrade and I am creating bugs since 2018</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=klzchz" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=klzchz" height="150" alt="languages graph"  />
-</div> 
+# Hi there 👋 I'm Lucas Andrade
 
+I'm a Full Stack Developer who loves building scalable systems — and yes, sometimes I break a few things along the way 🐞. I've been creating bugs since 2018, but also a few solutions that people actually use 😄
 
-<h3 align="left">SKILLS</h3>
+---
 
+## 📊 GitHub Stats
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" width="42" alt="php logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="30" width="42" alt="phpstorm logo"  />
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="30" width="42" alt="laravel logo"  /> -->
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" width="42" alt="amazonwebservices logo"  /> -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="30" width="42" alt="digitalocean logo"  />
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="30" width="42" alt="symfony logo"  /> -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" width="42" alt="vuejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="nodejs logo"  />
-</div>
+<!-- These stats are fun but don't always reflect private or professional work -->
+<!-- You can re-enable them later if desired -->
+<!-- ![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=klzchz&show_icons=true&theme=radical) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klzchz&layout=compact&theme=radical) -->
 
+I actively work on professional and private repositories, many of which are not publicly visible on GitHub. Feel free to explore my [portfolio](https://github.com/klzchz) or connect with me for real project examples.
 
+---
 
-<img align="right" height="150" src="https://media.giphy.com/media/C3brYLms1bhv2/giphy.gif"  />
+## 💻 Tech Stack
 
+| Frontend | Backend | Tools | Other |
+|----------|---------|-------|-------|
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) | ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js) | ![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code) | ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux) |
+| ![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js) | ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php) | ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) | ![ZPL](https://img.shields.io/badge/-ZPL-black?style=flat-square) |
+| ![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular) | ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go) | ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman) | ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) |
+| ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) | ![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel) | ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) | ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws) ![Cloud](https://img.shields.io/badge/-Cloud-black?style=flat-square&logo=cloudflare) |
+| ![Tailwind](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwindcss) |  |  |  |
 
-<div align="left">
-  <a href="https://www.youtube.com/channel/UCFJcPx1byrionANBACIAB-A" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-<!--   <a href="https://www.twitch.tv/bladecf95" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  </a> -->
-  <a href="https://www.linkedin.com/in/lucas-de-andrade-34072514a" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+---
 
+## 📌 Project Highlights
+
+- 🛒 [Mini E-commerce com Express e EJS](https://github.com/klzchz/ecommerce-express-ejs)
+- 📦 [REST API com NestJS e DTOs](https://github.com/klzchz/nestjs-dto-example)
+- 🧪 [Mock de E-commerce com Jest e TS](https://github.com/klzchz/ecommerce-mock)
+
+---
+
+## 🙋‍♂️ About Me
+
+I’m passionate about solving complex problems and delivering real-world solutions. With a strong foundation in full-stack development, I’ve worked with Vue.js, Node.js, PHP (Laravel), Angular, React, and more. I'm always learning and up for a challenge.
+
+Outside coding? You might find me watching anime, geeking out over reggaeton, or trying to be productive with a Coca-Cola in hand 🥤
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-de-andrade-34072514a/)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com)
+
+---
+
+![Luffy Excited](https://media.giphy.com/media/Q8B0EcwzWB3AA/giphy.gif)
+
+---
+
+> "Move fast and break things. Unless you are working on production." – Also me
