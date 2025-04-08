@@ -50,7 +50,8 @@ Outside coding? You might find me watching anime, geeking out over reggaeton, or
 
 ---
 
-![Smiling Architect](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXpwYWx1aHVnNDRxcDBjcnpvd2k3c29hcXp6MHJvdnFuMXcwM2cwaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVWuLuV1JESZJdebkI/giphy.gif)
+![Smiling Architect](https://media2.giphy.com/media/pVWuLuV1JESZJdebkI/giphy.gif)
+
 
 ---
 
