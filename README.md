@@ -28,6 +28,7 @@ I actively work on professional and private repositories, many of which are not 
 ---
 
 ## 📌 Project Highlights
+
 - 🧪 [Testing with Jest and TypeScript](https://github.com/klzchz/jest-ts)
 - 🔧 [E-commerce API with NestJS](https://github.com/klzchz/hw-nest)
 - 🛍️ [Mini E-commerce com Express.js (Academind)](https://github.com/klzchz/express-js-academind)
@@ -39,9 +40,8 @@ I actively work on professional and private repositories, many of which are not 
 
 ## 🙋‍♂️ About Me
 
-I’m passionate about solving complex problems and delivering real-world solutions. With a strong foundation in full-stack development, I’ve worked with Vue.js, Node.js, PHP (Laravel), Angular, React, and more. I'm always learning and up for a challenge.
-
-Outside coding? You might find me watching anime, geeking out over reggaeton, or trying to be productive with a Coca-Cola in hand 🥤
+I’m passionate about solving complex problems and delivering real-world solutions. With a strong foundation in full-stack development, 
+I’ve worked with Vue.js, Node.js, PHP (Laravel), Angular, React, and more. I also enjoy coding in Go (Golang) and Python for building APIs, services, and automation scripts.
 
 ---
 
@@ -52,7 +52,8 @@ Outside coding? You might find me watching anime, geeking out over reggaeton, or
 
 ---
 
-![Smiling Architect](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGtuenBtdnJxamZxdHR0eTlybzZ4NXVtbnozaHludncwa3ZnMnNxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif)
+![Smiling Architect](https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif)
+
 
 
 ---
