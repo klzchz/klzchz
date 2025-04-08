@@ -49,7 +49,7 @@ Outside coding? You might find me watching anime, geeking out over reggaeton, or
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com)
 
 ---
-https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u
+![Developer](https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u)
 
 
 ---
