@@ -1,6 +1,7 @@
 # Hi there 👋 I'm Lucas Andrade
 
-I'm a Full Stack Developer who loves building scalable systems — and yes, sometimes I break a few things along the way 🐞. I've been creating bugs since 2018, but also a few solutions that people actually use 😄
+I'm a Full Stack Developer who loves building scalable systems — and yes, sometimes I break a few things along the way 🐞. 
+I've been creating bugs since 2018, but also a few solutions that people actually use 😄
 
 
 ## 💻 Tech Stack
