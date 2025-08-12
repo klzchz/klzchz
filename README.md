@@ -2,17 +2,6 @@
 
 I'm a Full Stack Developer who loves building scalable systems — and yes, sometimes I break a few things along the way 🐞. I've been creating bugs since 2018, but also a few solutions that people actually use 😄
 
----
-
-## 📊 GitHub Stats
-
-<!-- These stats are fun but don't always reflect private or professional work -->
-<!-- You can re-enable them later if desired -->
-<!-- ![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=klzchz&show_icons=true&theme=radical) -->
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klzchz&layout=compact&theme=radical) -->
-
-
----
 
 ## 💻 Tech Stack
 
