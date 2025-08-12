@@ -43,11 +43,9 @@ I'm a Full Stack Developer who loves building scalable systems — and yes, some
 
 ## 🙋‍♂️ About Me
 
-I’m passionate about solving complex problems and delivering real-world solutions. With a strong foundation in full-stack development, 
-I’ve worked with Vue.js, Node.js, PHP (Laravel), Angular, React, and more. I also enjoy coding in Go (Golang) and Python for building APIs, services, and automation scripts.
+I’m committed to building efficient, scalable solutions that solve real problems. With over 7 years in full-stack development, I’ve worked across a wide range of technologies — Vue.js, Node.js, PHP (Laravel), Angular, React — and I also enjoy using Go (Golang) and Python for APIs, services, and automation. My work spans from high-traffic systems to complex integrations, always with a focus on performance and maintainability.
 
-In My free Time:
-Outside coding? You might find me watching anime, geeking out over reggaeton, or trying to be productive with a Coca-Cola in hand 🥤
+Outside of coding, I’m dedicated to training, keeping a sharp mind and healthy body, and staying consistent with my goals. Whether I’m refining my fitness, exploring new tech, or traveling, I approach everything with the same discipline and curiosity.
 
 ---
 
