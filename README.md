@@ -25,6 +25,8 @@ I actively work on professional and private repositories, many of which are not 
 | ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) | ![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel) | ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) | ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws) ![Cloud](https://img.shields.io/badge/-Cloud-black?style=flat-square&logo=cloudflare) |
 | ![Tailwind](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwindcss) |  |  |  |
 
+<!--
+
 ---
 
 ## 📌 Project Highlights
@@ -37,6 +39,8 @@ I actively work on professional and private repositories, many of which are not 
 - 📚 [30 Days of JavaScript](https://github.com/klzchz/30-Days-of-JavaScript)
 
 ---
+
+-->
 
 ## 🙋‍♂️ About Me
 
