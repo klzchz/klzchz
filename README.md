@@ -11,7 +11,6 @@ I'm a Full Stack Developer who loves building scalable systems — and yes, some
 <!-- ![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=klzchz&show_icons=true&theme=radical) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klzchz&layout=compact&theme=radical) -->
 
-I actively work on professional and private repositories, many of which are not publicly visible on GitHub. Feel free to explore my [portfolio](https://github.com/klzchz) or connect with me for real project examples.
 
 ---
 
